@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @neuraxius
+- 👀 I’m interested in RAT's and C# Software
+- 🌱 I’m currently learning C#
+- 📞 Call me TW (ToxidWorm) or Neuraxi
+- 🚀 Currently trying to write own RAT
